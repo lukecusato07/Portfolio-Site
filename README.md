@@ -1,3 +1,2 @@
 # Portfolio-Site
-I am creating a portfolio site starting Nov '23!
-Here, you will be able to learn a bit about me and where my passions lie!
+Hey there! /nMy name is Luke Cusato and I invite you to take a look at my personal site. Come see what I've been up to and what I'm most passionate about! 
