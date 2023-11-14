@@ -1,8 +1,8 @@
-import resume from './public/Luke_Cusato_Resume_Copy.pdf'; 
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faLinkedin, faGithub } from '@fortawesome/free-brands-svg-icons';
 import { faFilePdf } from '@fortawesome/free-solid-svg-icons';
 import './App.css';
+
 
 function App() {
   return (
@@ -38,7 +38,7 @@ function App() {
       </main>
       <footer>
   <div className="social_media">
-    <a href={resume} target="_blank" rel="noopener noreferrer" aria-label="Resume">
+    <a href="/Luke_Cusato_Resume_Copy.pdf" target="_blank" rel="noopener noreferrer" aria-label="Resume">
       <FontAwesomeIcon icon={faFilePdf} />
     </a>
     <a href="https://www.linkedin.com/in/luke-cusato/" target="_blank" rel="noopener noreferrer">
