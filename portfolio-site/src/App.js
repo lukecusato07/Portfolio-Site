@@ -1,4 +1,4 @@
-import resume from './Personal/Luke_Cusato_Resume.pdf';
+import resume from './public/Luke_Cusato_Resume_Copy.pdf'; 
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faLinkedin, faGithub } from '@fortawesome/free-brands-svg-icons';
 import { faFilePdf } from '@fortawesome/free-solid-svg-icons';
